@@ -1,4 +1,4 @@
-Project 02: Bank Management System 🏦
+##Project 02: Bank Management System 🏦
 
 A console-based Bank Management System in C++. It allows managing clients and users, performing transactions, and controlling access based on permissions.
 
