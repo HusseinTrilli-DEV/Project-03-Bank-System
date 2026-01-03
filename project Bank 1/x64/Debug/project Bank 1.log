@@ -1,0 +1,7 @@
+﻿  project Bank 1.cpp
+H:\myfirst\project Bank 1\project Bank 1\project Bank 1.cpp(67,26): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+H:\myfirst\project Bank 1\project Bank 1\project Bank 1.cpp(716,1): warning C4715: 'DeleteClientByAccountNumber': not all control paths return a value
+H:\myfirst\project Bank 1\project Bank 1\project Bank 1.cpp(749,1): warning C4715: 'DeleteUserByUserName': not all control paths return a value
+H:\myfirst\project Bank 1\project Bank 1\project Bank 1.cpp(801,1): warning C4715: 'UpdateUserByUserName': not all control paths return a value
+H:\myfirst\project Bank 1\project Bank 1\project Bank 1.cpp(915,1): warning C4715: 'UpdateClientByAccountNumber': not all control paths return a value
+  project Bank 1.vcxproj -> H:\myfirst\project Bank 1\x64\Debug\project Bank 1.exe
